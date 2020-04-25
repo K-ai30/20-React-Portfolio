@@ -1,10 +1,46 @@
+/* Navbar CSS */
+.navbar-brand {
+    background-color: #bda0f1;
+    color: #ffffff;
+    height: 30px;
+    /* text-align: center; */
+    font-size: 12pt;
+    padding: 0rem 1rem;
+    text-decoration: none;
+}
+
 .custom-background {
-    background-color: #c295e7;
+    /* background-color: #c295e7; */
     padding: 5px;
 }
 
+.custom-border {
+    border-bottom: 5px solid rgb(217, 188, 250);
+}
 
+.nav-link:hover {
+    background-color: #bda0f1;
+    color: white;
+}
 
+#aboutbtn{
+    color: white;
+    border-right: 1px solid #ffffff;
+}
+
+#portfoliobtn{
+    color: white;
+    border-right: 1px solid #777777;
+}
+
+#contactbtn{
+    color: white;
+}
+
+.container {
+    background-color: #98C0FC;
+    height: 560px;
+}
 
 nav.navbar.navbar-default {
     margin-bottom: 0;

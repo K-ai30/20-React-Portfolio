@@ -3,9 +3,9 @@ import "./Footer.css";
 
 function FooterNav() {
     return (
-        <nav className="navbar fixed-bottom navbar-dark bg-dark">
-            <a className="navbar-brand" href="#"> Alia Kyle Perry </a>
-        </nav>
+        <footer class="footer fixed-bottom footer-dark bg-dark d-flex justify-content-center custom-footerborder">
+            <p class="navbar-brand text-white custom-background">Alia Kyle Perry 2020 &copy;</p>
+        </footer>
     )
 }
 

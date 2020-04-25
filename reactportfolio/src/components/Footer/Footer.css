@@ -1,4 +1,4 @@
-.footer {
+/* .footer {
     min-height: 100px;
     background: #e5e5e5;
     position: relative;
@@ -11,4 +11,16 @@
     right: 0;
     padding: 3px;
     background: #b8b8b8;
-  }
+  } */
+
+footer {
+  border-top: 2px solid rgb(217, 188, 250);
+}
+
+.custom-background { 
+  background-color: #bda0f1;
+}
+
+.custom-footerborder {
+  border-top: 5px solid #bda0f1;
+}
