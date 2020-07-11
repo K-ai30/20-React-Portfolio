@@ -2,7 +2,7 @@
 
 ### Description
 
-
+This project was created to design a mobile-first portfolio site that captures a more creative-side using front end react. The challenges with this project were in adapting the formatting and customization through bootstrap elements and creating a dynamic and functional layout.
 
 # Getting Started
 
@@ -30,11 +30,29 @@ Or, visit the deployed version at:
 
 ### Technologies Utilized:
 
+* Bootstrap
+* CSS3
 * React
+* Devicon
+
+### Features Included:
+
+The visitor can access the following items:
+
+- Home/About Page
+- Portfolio Page
+- Technical Skills Page
+- Contact Page
+- Mobile-friendly
+- Social media links (LinkedIn & GitHub)
+- Email
+- Resume PDF
+
+One of the "extra" or additional features included were enhanced elements on the Navigation Links to add styling to the buttons in the form of "On Hover" effects.
 
 ### Author
 
-- Alia Kyle Perry (Full Stack Developer)
+- Alia Kyle Perry (Full Stack Developer) - [Check out my repositories!](https://github.com/K-ai30)
 
 ### Contributing
 
