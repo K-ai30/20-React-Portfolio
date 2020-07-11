@@ -1,0 +1,61 @@
+/* Contact Page */
+#emailIcon {
+    float: right;
+}
+
+.btn\btn-primary {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.custom-button {
+    background-color: #343a40;
+    padding: 5px;
+}
+
+section {
+    padding-bottom: 10px;
+}
+
+.custom-outline {
+    border-color: #343a40;
+}
+
+.text-white {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.githubIcon {
+    color: #777777;
+}
+
+.linkedInIcon {
+    color: #777777;
+}
+
+.resumeIcon {
+    color: #777777;
+}
+
+.emailIcon {
+    color: #777777;
+}
+
+a {
+    color: #343a40;
+}
+
+a:hover {
+    color: #777777;
+}
+
+form,
+.btn {
+    color: #343a40;
+}
+
+form,
+.btn:hover {
+    color: #777777;
+}

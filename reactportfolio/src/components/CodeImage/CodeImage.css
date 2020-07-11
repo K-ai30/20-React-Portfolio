@@ -1,8 +1,0 @@
-.parallax1 {
-    /* background: url('../public/Images/purplecode.jpg'); */
-    background-size: cover;
-    background-attachment: fixed;
-    /* border: solid hotpink ; */
-    height: 100vh;
-    width: 100vw;
-}

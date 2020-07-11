@@ -1,0 +1,19 @@
+body {
+    background-image: url("../../images/purplecode.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* import React from "react";
+import "./CodeImage.css";
+import Purple from '../../images/purplecode.jpg';
+
+function PurpleCode() {
+    return (
+        <div>
+            <img src={Purple} alt="Responsive" style={{ backgroundSize: 'cover' }} style={{ backgroundAttachment: 'fixed' }}/>
+        </div>
+    )
+}
+
+export default PurpleCode; */

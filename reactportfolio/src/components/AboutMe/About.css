@@ -1,0 +1,107 @@
+/* About Page */
+.container {
+    background-color: #bda0f1;
+    margin-top: 8px;
+    border: 2px solid #dddddd;
+    /* padding: 5px; */
+    height: 590px;
+}
+
+.container\mt-5\mb-5 {
+    padding: 10px;
+}
+
+/* .col-md-6\mb-5 {
+    text-align: center;
+} */
+
+h2 {
+    color: #ffffff;
+    margin-top: 25px;
+    text-align: left;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: left;
+    /* color: #777777; */
+}
+
+#inIcon {
+    float: right;
+}
+
+#gh {
+    float: right;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+#emailIcon {
+    float: right;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+#pdfIcon {
+    margin-top: 5px;
+    color: #343a40;
+}
+
+/* Social Media Icons */
+.githubIcon {
+    color: #bda0f1;
+    text-align: right;
+}
+
+.linkedInIcon {
+    color: #bda0f1;
+    text-align: right;
+}
+
+.emailIcon {
+    color: #ffffff;
+    text-align: right;
+    font-size: 22px;
+}
+
+.resumeIcon {
+    color: #343a40;
+    text-align: right;
+}
+
+#inIcon {
+    float: right;
+    color: white;
+}
+
+#gh {
+    float: right;
+    margin-top: 5px;
+    margin-left: 50px;
+    color: white;
+    font-size: 22px;
+}
+
+#emailIcon {
+    float: right;
+    margin-top: 5px;
+    margin-left: 50px;
+    color: white;
+}
+
+#pdfIcon {
+    margin-top: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.btn {
+    color: #343a40;
+}
+
+.btn-link {
+    color: #343a40;
+}

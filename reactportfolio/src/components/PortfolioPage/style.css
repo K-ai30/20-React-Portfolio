@@ -1,0 +1,80 @@
+/* Portfolio Page */
+#ghIcon {
+    float: right;
+}
+
+.card {
+    border: none;
+}
+
+.card-img {
+    padding: 5px;
+    margin-top: 15px;
+    border: 1px solid black;
+}
+
+#yumtrucksbox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 254px;
+    font-size: 12pt;
+    padding: 12px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+#eatburgerbox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 254px;
+    font-size: 12pt;
+    padding: 12px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+#hikersguidebox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 254px;
+    font-size: 12pt;
+    padding: 12px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+#dayplanbox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 254px;
+    font-size: 12pt;
+    padding: 12px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+#codequizbox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 254px;
+    font-size: 12pt;
+    padding: 12px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+#pwgenbox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 254px;
+    font-size: 12pt;
+    padding: 12px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}

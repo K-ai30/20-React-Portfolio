@@ -3,19 +3,16 @@
     background-color: #bda0f1;
     color: #ffffff;
     height: 30px;
-    /* text-align: center; */
     font-size: 12pt;
-    padding: 0rem 1rem;
     text-decoration: none;
 }
 
-.custom-background {
-    /* background-color: #c295e7; */
-    padding: 5px;
+.navbar {
+    position: relative;
 }
 
-.custom-border {
-    border-bottom: 5px solid rgb(217, 188, 250);
+.nav-link {
+    text-decoration: none;
 }
 
 .nav-link:hover {
@@ -23,25 +20,27 @@
     color: white;
 }
 
-#aboutbtn{
-    color: white;
+#aboutBtn {
     border-right: 1px solid #ffffff;
+    color: #ffffff;
 }
 
-#portfoliobtn{
-    color: white;
-    border-right: 1px solid #777777;
-}
-
-#contactbtn{
+#portfolioBtn {
+    border-right: 1px solid #ffffff;
     color: white;
 }
 
-.container {
-    background-color: #98C0FC;
-    height: 560px;
+#techSkillsBtn {
+    border-right: 1px solid #ffffff;
+    color: white;
 }
 
-nav.navbar.navbar-default {
-    margin-bottom: 0;
-}  
+#contactBtn {
+    color: white;
+}
+
+.custom-border {
+    border-bottom: 5px solid rgb(217, 188, 250);
+}
+
+/* #98C0FC */
