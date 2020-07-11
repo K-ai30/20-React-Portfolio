@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/20-React-Portfolio/static/css/main.e7b74530.chunk.css",
-    "main.js": "/20-React-Portfolio/static/js/main.af2784af.chunk.js",
-    "main.js.map": "/20-React-Portfolio/static/js/main.af2784af.chunk.js.map",
+    "main.css": "/20-React-Portfolio/static/css/main.d0dbf255.chunk.css",
+    "main.js": "/20-React-Portfolio/static/js/main.15d8f23b.chunk.js",
+    "main.js.map": "/20-React-Portfolio/static/js/main.15d8f23b.chunk.js.map",
     "runtime-main.js": "/20-React-Portfolio/static/js/runtime-main.45dc8cb6.js",
     "runtime-main.js.map": "/20-React-Portfolio/static/js/runtime-main.45dc8cb6.js.map",
-    "static/js/2.5225e16b.chunk.js": "/20-React-Portfolio/static/js/2.5225e16b.chunk.js",
-    "static/js/2.5225e16b.chunk.js.map": "/20-React-Portfolio/static/js/2.5225e16b.chunk.js.map",
+    "static/js/2.7a8cfec4.chunk.js": "/20-React-Portfolio/static/js/2.7a8cfec4.chunk.js",
+    "static/js/2.7a8cfec4.chunk.js.map": "/20-React-Portfolio/static/js/2.7a8cfec4.chunk.js.map",
     "index.html": "/20-React-Portfolio/index.html",
-    "precache-manifest.cce5a22d18c187ab494d008fc4451028.js": "/20-React-Portfolio/precache-manifest.cce5a22d18c187ab494d008fc4451028.js",
+    "precache-manifest.ca6c0f7a844d9ba725ca0f7769746b71.js": "/20-React-Portfolio/precache-manifest.ca6c0f7a844d9ba725ca0f7769746b71.js",
     "service-worker.js": "/20-React-Portfolio/service-worker.js",
-    "static/css/main.e7b74530.chunk.css.map": "/20-React-Portfolio/static/css/main.e7b74530.chunk.css.map",
-    "static/js/2.5225e16b.chunk.js.LICENSE.txt": "/20-React-Portfolio/static/js/2.5225e16b.chunk.js.LICENSE.txt"
+    "static/css/main.d0dbf255.chunk.css.map": "/20-React-Portfolio/static/css/main.d0dbf255.chunk.css.map",
+    "static/js/2.7a8cfec4.chunk.js.LICENSE.txt": "/20-React-Portfolio/static/js/2.7a8cfec4.chunk.js.LICENSE.txt",
+    "static/media/Headshot1.jpg": "/20-React-Portfolio/static/media/Headshot1.3b14b7e6.jpg",
+    "static/media/YumTrucks.png": "/20-React-Portfolio/static/media/YumTrucks.414faf0a.png",
+    "static/media/burger.png": "/20-React-Portfolio/static/media/burger.5959d85f.png",
+    "static/media/fullcodequiz.png": "/20-React-Portfolio/static/media/fullcodequiz.999db99e.png",
+    "static/media/fulldayplanner.png": "/20-React-Portfolio/static/media/fulldayplanner.9b30e6ec.png",
+    "static/media/fullpasswordgenerator.png": "/20-React-Portfolio/static/media/fullpasswordgenerator.69c3e77b.png",
+    "static/media/global.css": "/20-React-Portfolio/static/media/purplecode.e24c6e14.jpg",
+    "static/media/theHikersGuide.png": "/20-React-Portfolio/static/media/theHikersGuide.360343f4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.45dc8cb6.js",
-    "static/js/2.5225e16b.chunk.js",
-    "static/css/main.e7b74530.chunk.css",
-    "static/js/main.af2784af.chunk.js"
+    "static/js/2.7a8cfec4.chunk.js",
+    "static/css/main.d0dbf255.chunk.css",
+    "static/js/main.15d8f23b.chunk.js"
   ]
 }
